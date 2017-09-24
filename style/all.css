@@ -1,5 +1,6 @@
 /*Overall*/
 html{
+  background-color: white;
   color:black;
   font-family: system-ui, sans-serif;
   text-align: center;
@@ -80,7 +81,7 @@ a:visited {text-decoration: none}
 
   .homepage{
     color:white;
-    background-image: url("images/potentialback.jpg";
+    background-image: url("file:///Users/hannahredding/Desktop/p1final-hir8/images/potentialback.jpg");
         /*source: me*/
     background-size:cover;
     background-repeat: no-repeat;
