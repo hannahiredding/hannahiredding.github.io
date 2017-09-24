@@ -81,7 +81,7 @@ a:visited {text-decoration: none}
 
   .homepage{
     color:white;
-    background-image: url("images/potentialback.jpg");
+    background-image: url("/images/potentialback.jpg");
         /*source: me*/
     background-size:cover;
     background-repeat: no-repeat;
