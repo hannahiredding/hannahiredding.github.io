@@ -145,7 +145,7 @@ a:visited {text-decoration: none}
 /*Education page -- education.html styling*/
   #edupage{
     margin-right: 5%;
-    background-image: url("file:///Users/hannahredding/Desktop/p1final-hir8/images/possbackground3.jpg");
+    background-image: url("images/possbackground3.jpg");
       /*source:me*/
     background-size:cover;
     background-repeat: no-repeat;
