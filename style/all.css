@@ -81,7 +81,7 @@ a:visited {text-decoration: none}
 
   .homepage{
     color:white;
-    background-image: url("/images/potentialback.jpg");
+    background-image: url("/style/images/potentialback.jpg");
         /*source: me*/
     background-size:cover;
     background-repeat: no-repeat;
@@ -104,7 +104,7 @@ a:visited {text-decoration: none}
 /*Work page -- work.html styling*/
   #workpage{
     margin-right: 5%;
-    background-image: image("images/possbackground3.jpg");
+    background-image: url("images/possbackground3.jpg");
     /*source:me*/
     background-size:cover;
     background-repeat: no-repeat;
