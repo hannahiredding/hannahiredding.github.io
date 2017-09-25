@@ -104,7 +104,7 @@ a:visited {text-decoration: none}
 /*Work page -- work.html styling*/
   #workpage{
     margin-right: 5%;
-    background-image: url("images/possbackground3.jpg");
+    background-image: url("/style/images/possbackground3.jpg");
     /*source:me*/
     background-size:cover;
     background-repeat: no-repeat;
@@ -145,7 +145,7 @@ a:visited {text-decoration: none}
 /*Education page -- education.html styling*/
   #edupage{
     margin-right: 5%;
-    background-image: image('images/possbackground3.jpg');
+    background-image: url("/style/images/possbackground3.jpg");
       /*source:me*/
     background-size:cover;
     background-repeat: no-repeat;
@@ -202,7 +202,7 @@ a:visited {text-decoration: none}
 
   #biopage{
     margin-right: 5%;
-    background-image: image("images/possbackground5.jpg");
+    background-image: url("/style/images/possbackground5.jpg");
       /*source:me*/
     background-size:cover;
     background-repeat: no-repeat;
@@ -230,7 +230,7 @@ a:visited {text-decoration: none}
 
   #leadpage{
     margin-right: 5%;
-    background-image: image("images/possbackground3.jpg");
+    background-image: url("/style/images/possbackground3.jpg");
       /*source:me*/
     background-size:cover;
     background-repeat: no-repeat;
@@ -242,7 +242,7 @@ a:visited {text-decoration: none}
 /*Skills page*/
 
   #skillspage{
-    background-image: image("images/potentialback2.jpg");
+    background-image: url("/style/images/potentialback2.jpg");
       /*source: me*/
     background-size:cover;
     background-repeat: no-repeat;
@@ -253,7 +253,7 @@ a:visited {text-decoration: none}
 /*contact page*/
 
   #contactpage{
-    background-image: image("images/possback1.jpg");
+    background-image: url("/style/images/possback1.jpg");
       /*source: me*/
     background-size:cover;
     background-repeat: no-repeat;
