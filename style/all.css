@@ -211,16 +211,10 @@ a:visited {text-decoration: none}
     }
 
   #biophoto{
-    width: 5%;
-    opacity:0.25;
+    width: 60%;
     border:white 10px solid;
     }
 
-  #biophoto:hover{
-    width: 60%;
-    opacity:1;
-    border:white 10px solid;
-    }
 
 /*Leadership page -- leadership.html styling*/
   #leadpage p, #leadpage h2, #leadpage h3{
